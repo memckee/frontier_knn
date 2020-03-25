@@ -1,0 +1,23 @@
+Asset Class,ETF,Permanent Portfolio,Three Fund Portfolio,Pinwheel Portfolio,All Seasons Portfolio,Golden Butterfly,Coffeehouse Portfolio,Swensen Portfolio,7Twelve Portfolio,60/40 Portfolio,Ivy Portfolio
+US Total Stock Market,VTI,25,40,15,30,20,,30,,60,20
+US Large Cap Blend,SPY,,,,,,10,,8.3,,
+US Large Cap Value,SPYV,,,,,,10,,,,
+US Large Cap Growth,SPYG,,,,,,,,,,
+US Mid Cap Blend,MDY,,,,,,10,,8.3,,
+US Mid Cap Value,IJJ,,,,,,10,,,,
+US Mid Cap Growth,IJK,,,,,,,,,,
+US Small Cap Blend,IJR,,,,,,,,8.3,,
+US Small Cap Value,IJS,,,10,,20,,,,,
+US Small Cap Growth,IJT,,,,,,,,,,
+International Stocks,VEA,,20,15,,,10,15,8.3,,20
+Emerging Markets Stocks,VWO,,,10,,,,5,8.3,,
+Long-Term Treasuries,TLT,25,,,40,20,,,,,
+Intermediate Treasuries,IEI,,,15,15,,40,15,8.5,,20
+Short-Term Treasuries,SHY,,,,,20,,,,,
+Ultra-Short Treasuries,BIL,25,,10,,,,,8.3,,
+Inflation-Protected,TIP,,,,,,,15,8.5,,
+Commodities,DBC,,,,7.5,,,,16.6,,20
+Real Estate,IYR,,,15,,,10,20,8.3,,20
+Gold,GLD,25,,10,7.5,20,,,,,
+US Fixed Income,AGG,,40,,,,,,,40,
+International Treasuries,BWX,,,,,,,,8.3,,
